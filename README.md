@@ -1,16 +1,23 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hey+There+👋+I'm+Ayush+Singh;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+Web+Applications;Problem+Solver+%7C+DSA+Learner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=220&section=header&text=Ayush%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20%2F%20ML%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+Web+Applications;MERN+Stack+Developer;Problem+Solver+%7C+DSA+Learner" alt="Typing SVG" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🌌 About Me
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
 
 ```yaml
 Name: Ayush Singh
@@ -19,33 +26,38 @@ Role:
   - Full Stack Developer
   - AI/ML Enthusiast
 
-Focus:
-  - Scalable Web Applications
-  - Backend Development
+Core Expertise:
+  - MERN Stack Development
+  - REST API Development
   - Artificial Intelligence
+  - Machine Learning
+  - Database Design
   - Problem Solving
 
-Currently Building:
+Focus Areas:
+  - Scalable Web Applications
+  - Backend Engineering
+  - Clean Software Architecture
   - Full Stack Products
   - AI Powered Applications
-  - Real World Projects
 
-Learning:
+Currently Exploring:
   - Generative AI
   - NLP
   - System Design
-  - Advanced Backend Engineering
-
-Interests:
-  - Software Engineering
-  - Open Source
-  - Hackathons
-  - Competitive Programming
+  - Cloud Technologies
 ```
 
-<div align="center">
+</td>
 
-### 🚀 Turning ideas into products through code
+<td width="50%" align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="90%" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -75,6 +87,17 @@ Interests:
 
 ---
 
+# 🚀 Currently Working On
+
+```text
+⚡ Building Full Stack Applications
+🤖 Exploring Generative AI & NLP
+📚 Improving DSA & System Design
+🚀 Developing Real World Projects
+```
+
+---
+
 # ⚡ Tech Stack
 
 <div align="center">
@@ -87,7 +110,7 @@ Interests:
 
 ## 🌐 Full Stack Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap,vite" />
 
 <br/><br/>
 
@@ -97,15 +120,22 @@ Interests:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OpenCV-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge"/>
+
+<br/><br/>
+
+## 🗄️ Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel" />
 
 <br/><br/>
 
 ## 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
 
 </div>
 
@@ -117,10 +147,10 @@ Interests:
 
 | Project | Description |
 |----------|-------------|
-| 📈 FinSightPro | AI-powered stock analysis and forecasting platform |
-| 🏏 KickNHit | Full-stack e-commerce platform for sports equipment |
-| 🎮 AI Powered 2048 | AI agent using Greedy and Expectimax algorithms |
-| ☁️ OptiOps AI | Modern AIOps cloud infrastructure dashboard |
+| 📈 **FinSightPro** | AI-powered stock analysis and forecasting platform using sentiment analysis and time-series models |
+| 🏏 **KickNHit** | Full-stack e-commerce platform with authentication, dashboards, cart and order management |
+| 🎮 **AI Powered 2048** | Intelligent game agent using Greedy and Expectimax algorithms |
+| ☁️ **OptiOps AI** | AIOps cloud infrastructure monitoring dashboard |
 
 </div>
 
@@ -130,9 +160,9 @@ Interests:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushs069&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ayushs069&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushs069&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushs069&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -142,7 +172,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ayushs069&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ayushs069&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -152,7 +182,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayushs069&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayushs069&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
@@ -162,7 +192,7 @@ Interests:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushs069&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushs069&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -178,16 +208,6 @@ Interests:
 
 ---
 
-# 💻 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -198,18 +218,12 @@ Interests:
 
 ---
 
-# 👀 Profile Views
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ayushs069&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+### ⚡ Building Products • Exploring AI • Solving Problems
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-## ⚡ Building Products • Exploring AI • Solving Problems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=120&section=footer"/>
 
 </div>
