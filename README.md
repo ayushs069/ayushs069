@@ -2,9 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=180&section=header&text=Ayush%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;AI+%2F+ML+Enthusiast;Exploring+LLMs+%26+Generative+AI;Agentic+AI+%7C+DevOps+Learner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+Web+Applications;MERN+Stack+Developer;Exploring+LLMs+%26+Generative+AI;Agentic+AI+%7C+DevOps+Learner" />
+<h3>
+🚀 Building Products • Exploring AI • Solving Problems
+</h3>
+
+<br>
+
+<a href="https://www.linkedin.com/in/ayush-singh011/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ayushs069">
+<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/belugax69/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
@@ -17,27 +33,25 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="55%">
 
 ```yaml
 Name: Ayush Singh
 
 Role:
   - Full Stack Developer
-  - AI/ML Enthusiast
+  - AI / ML Enthusiast
 
-Core Expertise:
+Building:
+  - Scalable Web Applications
+  - AI Powered Products
+  - Backend Systems
+
+Specializing In:
   - MERN Stack Development
   - REST API Development
-  - Backend Engineering
-  - Database Design
-  - Problem Solving
-
-Focus Areas:
-  - Scalable Web Applications
   - Software Engineering
-  - AI Powered Products
-  - Clean Architecture
+  - Database Design
 
 Currently Exploring:
   - Generative AI
@@ -46,74 +60,23 @@ Currently Exploring:
   - NLP
   - DevOps
   - Cloud Technologies
+
+Passionate About:
+  - Problem Solving
+  - Product Development
+  - Continuous Learning
 ```
 
 </td>
 
-<td width="50%" align="center">
+<td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90%" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="95%" />
 
 </td>
 
 </tr>
 </table>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ayush-singh011/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ayushs069" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/belugax69/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| Achievement | Details |
-|------------|---------|
-| 💻 DSA Problems Solved | 300+ |
-| 🚀 Smart India Hackathon | Participant |
-| 🌐 Full Stack Projects | Multiple |
-| 🤖 AI / ML Projects | Multiple |
-| 📚 Continuous Learning | LLMs, GenAI, DevOps |
-
-</div>
-
----
-
-# 🚀 Current Focus
-
-<div align="center">
-
-| 💻 Development | 🤖 AI |
-|---------------|-------|
-| Building Full Stack Applications | Exploring Generative AI |
-| Designing Scalable APIs | Learning LLM Workflows |
-| Backend Architecture | Agentic AI Systems |
-
-| 📚 Learning | ☁️ Future Focus |
-|------------|---------------|
-| DSA & System Design | DevOps & Cloud |
-| Software Engineering | Production Scale Systems |
 
 </div>
 
@@ -145,10 +108,6 @@ Currently Exploring:
 <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge"/>
 
 <br><br>
 
@@ -181,33 +140,11 @@ Currently Exploring:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushs069&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushs069&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ayushs069&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushs069&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" />
 
 </div>
 
@@ -243,12 +180,50 @@ Currently Exploring:
 
 ---
 
+# 🏆 Achievements
+
 <div align="center">
 
-### ⚡ Building Products • Exploring AI • Solving Problems
+🥇 **300+ DSA Problems Solved**
 
-<br>
+🚀 **Smart India Hackathon Participant**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=120&section=footer"/>
+🌐 **Built Multiple Full Stack Applications**
+
+🤖 **Developed AI & Machine Learning Projects**
+
+📚 **Actively Exploring LLMs, GenAI & Agentic AI**
 
 </div>
+
+---
+
+# 🚀 Current Focus
+
+<div align="center">
+
+| Area | Focus |
+|------|--------|
+| 💻 Development | Building Full Stack Applications |
+| 🤖 AI | Exploring Generative AI & LLM Workflows |
+| 🧠 Learning | DSA, System Design & Backend Engineering |
+| ☁️ Cloud | DevOps Fundamentals & Cloud Technologies |
+| 🚀 Growth | Building Production Ready Projects |
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>
+💡 Building Today, Learning Forever
+</h3>
+
+<p>
+Full Stack Development • Artificial Intelligence • Software Engineering
+</p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=120&section=footer"/>
