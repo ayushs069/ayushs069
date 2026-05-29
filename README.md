@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=220&section=header&text=Ayush%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20%2F%20ML%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+Web+Applications;MERN+Stack+Developer;Problem+Solver+%7C+DSA+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+Web+Applications;MERN+Stack+Developer;Exploring+LLMs+%26+Generative+AI;Agentic+AI+%7C+DevOps+Learner" />
 
 </div>
 
@@ -29,22 +29,22 @@ Role:
 Core Expertise:
   - MERN Stack Development
   - REST API Development
-  - Artificial Intelligence
-  - Machine Learning
+  - Backend Engineering
   - Database Design
   - Problem Solving
 
 Focus Areas:
   - Scalable Web Applications
-  - Backend Engineering
-  - Clean Software Architecture
-  - Full Stack Products
-  - AI Powered Applications
+  - Software Engineering
+  - AI Powered Products
+  - Clean Architecture
 
 Currently Exploring:
   - Generative AI
+  - Large Language Models (LLMs)
+  - Agentic AI Systems
   - NLP
-  - System Design
+  - DevOps
   - Cloud Technologies
 ```
 
@@ -52,7 +52,7 @@ Currently Exploring:
 
 <td width="50%" align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="90%" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90%" />
 
 </td>
 
@@ -79,22 +79,43 @@ Currently Exploring:
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://codeforces.com/" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
 
 </div>
 
 ---
 
-# 🚀 Currently Working On
+# 🏆 Achievements
 
-```text
-⚡ Building Full Stack Applications
-🤖 Exploring Generative AI & NLP
-📚 Improving DSA & System Design
-🚀 Developing Real World Projects
-```
+<div align="center">
+
+| Achievement | Details |
+|------------|---------|
+| 💻 DSA Problems Solved | 200+ |
+| 🚀 Smart India Hackathon | Participant |
+| 🌐 Full Stack Projects | Multiple |
+| 🤖 AI / ML Projects | Multiple |
+| 📚 Continuous Learning | LLMs, GenAI, DevOps |
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+<div align="center">
+
+| 💻 Development | 🤖 AI |
+|---------------|-------|
+| Building Full Stack Applications | Exploring Generative AI |
+| Designing Scalable APIs | Learning LLM Workflows |
+| Backend Architecture | Agentic AI Systems |
+
+| 📚 Learning | ☁️ Future Focus |
+|------------|---------------|
+| DSA & System Design | DevOps & Cloud |
+| Software Engineering | Production Scale Systems |
+
+</div>
 
 ---
 
@@ -106,32 +127,36 @@ Currently Exploring:
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,mysql" />
 
-<br/><br/>
+<br><br>
 
 ## 🌐 Full Stack Development
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap,vite" />
 
-<br/><br/>
+<br><br>
 
 ## 🤖 AI / ML
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-<br/><br/>
+<br><br>
 
+<img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge"/>
 
-<br/><br/>
+<br><br>
 
-## 🗄️ Databases & Cloud
+## ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,firebase,vercel,githubactions" />
 
-<br/><br/>
+<br><br>
 
 ## 🛠️ Tools & Platforms
 
@@ -150,7 +175,7 @@ Currently Exploring:
 | 📈 **FinSightPro** | AI-powered stock analysis and forecasting platform using sentiment analysis and time-series models |
 | 🏏 **KickNHit** | Full-stack e-commerce platform with authentication, dashboards, cart and order management |
 | 🎮 **AI Powered 2048** | Intelligent game agent using Greedy and Expectimax algorithms |
-| ☁️ **OptiOps AI** | AIOps cloud infrastructure monitoring dashboard |
+| ☁️ **OptiOps AI** | Modern AIOps cloud infrastructure dashboard |
 
 </div>
 
@@ -160,9 +185,9 @@ Currently Exploring:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ayushs069&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushs069&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushs069&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushs069&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -182,7 +207,7 @@ Currently Exploring:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayushs069&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=ayushs069&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" />
 
 </div>
 
@@ -192,7 +217,7 @@ Currently Exploring:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushs069&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushs069&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
