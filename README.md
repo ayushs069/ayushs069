@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=220&section=header&text=Ayush%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20%2F%20ML%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=180&section=header&text=Ayush%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
+</div>
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+Web+Applications;MERN+Stack+Developer;Exploring+LLMs+%26+Generative+AI;Agentic+AI+%7C+DevOps+Learner" />
