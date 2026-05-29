@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Scalable+Web+Applications;Exploring+LLMs+%26+Generative+AI"/>
 
-<h3 align="center">
-🚀 Building Products • Exploring AI • Solving Problems
-</h3>
-
 </div>
 
 ---
@@ -110,22 +106,33 @@ Passionate About:
 
 <br><br>
 
-## 🤖 AI / ML
+## 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=huggingface&logoColor=yellow"/>
+
+<img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=robotframework&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=spacy&logoColor=09A3D5"/>
+
+<img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
 
 <br><br>
 
-## ☁️ Cloud & DevOps
+## 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,firebase,vercel,githubactions" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel" />
 
 <br><br>
 
